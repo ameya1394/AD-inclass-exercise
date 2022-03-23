@@ -1,5 +1,8 @@
 # student-site
 
+Hello this is my website! 
+
+
 An example student website, hosted by [GitHub Pages](https://pages.github.com/).
 
 View live in production at https://prof-rossetti.github.io/student-site.
